@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>Ws</groupId>
-	<artifactId>Mahall</artifactId>
+	<artifactId>ReserveEasy</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Mahall</name>
-	<description>Demo project for Spring Boot</description>
+	<name>ReserveEasy</name>
+	<description>Reserve Easy Application</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
