@@ -9,8 +9,7 @@ const Primarybutton = (props) => {
             <div className={styles['dummy-container']}>
                 <button className={styles['primarybutton']}>
                     <img
-                        src="../Assets/rectangle533-dzu-200h.png"
-                        alt="Rectangle533"
+                        src="/rectangle533-dzu-200h.png"
                         className={styles['rectangle']}
                     />
                     <span className={styles['text']}>
