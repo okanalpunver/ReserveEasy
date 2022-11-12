@@ -5,7 +5,7 @@ const Signinpage = () => {
     return(
         <div className="container">
             <div className="signin-chart">
-                <img className="logo" src="/logoRes.png "/>
+                <img className="logo" src="/logo.png "/>
                 <div className="signin-text">
                     <h1>Giriş Yap</h1>
                 </div>
