@@ -13,7 +13,9 @@ const Navbar = () =>{
             <a href={"#"}>Kategoriler</a>
             <a href={"#"}>En Yüksek Puan Alanlar</a>
             <a href={"#"}>Size Özel</a>
-            <input type={"text"} placeholder={"Arama"}/>
+            <div className={"nav-searchbar"}>
+                <input type={"text"} placeholder={"Arama"}/>
+            </div>
             <div className={"login-nav"}>
                 <a href={"#"}>Giriş Yap</a>
             </div>
