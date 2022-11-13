@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa159ca1-4b6f-481b-9a22-551e26ceb920" name="Changes" comment="added navbar component added reactstrap">
+    <list default="true" id="aa159ca1-4b6f-481b-9a22-551e26ceb920" name="Changes" comment="refactor navbar(logo added)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/0.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/0.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/1.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/1.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/11.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/11.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/14.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/14.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/15.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/15.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/16.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/16.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/17.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/17.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/2.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/2.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/5.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/5.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/7.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/7.pack" afterDir="false" />
@@ -89,7 +93,7 @@
       <workItem from="1668181997793" duration="710000" />
       <workItem from="1668184144507" duration="1243000" />
       <workItem from="1668256664048" duration="99000" />
-      <workItem from="1668336214778" duration="5233000" />
+      <workItem from="1668336214778" duration="7263000" />
     </task>
     <task id="LOCAL-00001" summary="png path change">
       <created>1668185383110</created>
@@ -105,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668339281897</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="refactor navbar(logo added)">
+      <created>1668342586295</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668342586295</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +136,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="png path change" />
     <MESSAGE value="added navbar component added reactstrap" />
-    <option name="LAST_COMMIT_MESSAGE" value="added navbar component added reactstrap" />
+    <MESSAGE value="refactor navbar(logo added)" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor navbar(logo added)" />
   </component>
 </project>
