@@ -4,11 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa159ca1-4b6f-481b-9a22-551e26ceb920" name="Changes" comment="png path change" />
+    <list default="true" id="aa159ca1-4b6f-481b-9a22-551e26ceb920" name="Changes" comment="png path change">
+      <change afterPath="$PROJECT_DIR$/reserve-easy-fe/src/Components/Navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reserve-easy-fe/src/Components/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/0.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/0.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/1.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/1.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/10.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/10.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/2.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/2.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/3.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/3.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/4.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/4.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/5.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/5.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/6.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/6.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/7.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/7.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/8.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/8.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/9.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/9.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/index.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/index.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/index.pack.old" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/index.pack.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/src/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -44,6 +73,16 @@
       <recent name="$PROJECT_DIR$/reserve-easy-fe/public" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ReserveEasy/reserve-easy-fe/public/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,6 +96,7 @@
       <workItem from="1668181997793" duration="710000" />
       <workItem from="1668184144507" duration="1243000" />
       <workItem from="1668256664048" duration="99000" />
+      <workItem from="1668336214778" duration="2937000" />
     </task>
     <task id="LOCAL-00001" summary="png path change">
       <created>1668185383110</created>

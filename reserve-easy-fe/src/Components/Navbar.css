@@ -1,0 +1,25 @@
+.top-nav {
+    overflow: hidden;
+    background-color: #0F4B58;
+}
+.top-nav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.top-nav a.active {
+    background-color: #2196F3;
+    color: white;
+}
+.top-nav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+}
