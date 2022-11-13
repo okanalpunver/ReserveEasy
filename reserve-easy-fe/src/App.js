@@ -1,6 +1,9 @@
 import "./App.css";
 import SignInPage from "./Components/SignInPage";
 import Navbar from "./Components/Navbar";
+import Sidebar from "./Components/SidebarNavBusiness";
+import NavbarBusiness from "./Components/NavbarBusiness";
+import SidebarNavBusiness from "./Components/SidebarNavBusiness";
 function App() {
   return (
     <div className="App">

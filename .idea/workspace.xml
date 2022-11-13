@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa159ca1-4b6f-481b-9a22-551e26ceb920" name="Changes" comment="refactor navbar(search bar added)" />
+    <list default="true" id="aa159ca1-4b6f-481b-9a22-551e26ceb920" name="Changes" comment="new NavbarBusiness-new SidebarBusiness">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/10.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/10.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/11.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/11.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/12.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/12.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/13.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/13.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/5.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/5.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/6.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/6.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/7.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/7.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/8.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/8.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/9.pack" beforeDir="false" afterPath="$PROJECT_DIR$/reserve-easy-fe/node_modules/.cache/default-development/9.pack" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +86,10 @@
       <workItem from="1668184144507" duration="1243000" />
       <workItem from="1668256664048" duration="99000" />
       <workItem from="1668336214778" duration="7552000" />
+      <workItem from="1668355583915" duration="928000" />
+      <workItem from="1668356796637" duration="3276000" />
+      <workItem from="1668360083658" duration="63000" />
+      <workItem from="1668360458805" duration="322000" />
     </task>
     <task id="LOCAL-00001" summary="png path change">
       <created>1668185383110</created>
@@ -111,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668344573789</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="new NavbarBusiness-new SidebarBusiness">
+      <created>1668359835255</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668359835255</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,7 +144,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -133,6 +167,7 @@
     <MESSAGE value="added navbar component added reactstrap" />
     <MESSAGE value="refactor navbar(logo added)" />
     <MESSAGE value="refactor navbar(search bar added)" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor navbar(search bar added)" />
+    <MESSAGE value="new NavbarBusiness-new SidebarBusiness" />
+    <option name="LAST_COMMIT_MESSAGE" value="new NavbarBusiness-new SidebarBusiness" />
   </component>
 </project>

@@ -18,9 +18,10 @@
     text-align: center;
 }
 .logo-image{
-    display: inline-block;
+    display: flex;
     width: 44px;
     float: left;
+
 }
 .login-nav{
     float: right;
