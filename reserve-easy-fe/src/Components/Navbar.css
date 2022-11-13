@@ -3,23 +3,25 @@
     background-color: #0F4B58;
 }
 .top-nav a {
-    float: left;
-    display: block;
-    color: black;
-    text-align: center;
+    color: white;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 20px;
+    align-items: center;
 }
 .top-nav a.active {
-    background-color: #2196F3;
+    background-color: #0F4B58;
     color: white;
 }
 .top-nav input[type=text] {
-    float: right;
-    padding: 6px;
-    border: none;
-    margin-top: 8px;
-    margin-right: 16px;
+    border-radius:23px;
     font-size: 17px;
+}
+.logo-image{
+    float: left;
+    width: 35px;
+}
+.login-nav{
+    float: right;
+    padding-top: 144px;
 }
