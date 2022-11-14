@@ -1,0 +1,38 @@
+.top-nav {
+    overflow: hidden;
+    background-color: #0F4B58;
+}
+.top-nav a {
+    color: white;
+    padding: 17px 25px;
+    text-decoration: none;
+    font-size: 20px;
+    align-items: center;
+
+}
+.top-nav input[type=text] {
+    border-radius:23px;
+    font-size: 17px;
+    display: flex;
+    padding-right: 54px;
+    text-align: center;
+}
+.logo-image{
+    display: flex;
+    width: 44px;
+    float: left;
+
+}
+.login-nav{
+    float: right;
+   padding-bottom: 4px;
+}
+.nav-searchbar{
+    display: inline-block;
+    padding: 2% 25% 5%;
+    padding-top: 104px;
+    align-items: center;
+    width: 40px;
+    vertical-align: middle;
+    horiz-align: center;
+}
