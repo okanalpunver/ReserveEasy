@@ -17,6 +17,20 @@
     padding-right: 54px;
     text-align: center;
 }
+.logo {
+    margin-left: 3vw;
+    flex-grow: 0.5;
+
+}
+.search {
+    margin-top: 80px;
+    flex-grow: 2;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    vertical-align: center;
+
+}
 .logo-image{
     display: flex;
     width: 44px;
@@ -24,15 +38,33 @@
 
 }
 .login-nav{
-    float: right;
-   padding-bottom: 4px;
+    margin-top: 183px;
+    flex-grow: 0.5;
+
 }
 .nav-searchbar{
-    display: inline-block;
-    padding: 2% 25% 5%;
-    padding-top: 104px;
     align-items: center;
-    width: 40px;
-    vertical-align: middle;
+    width: 14vw;
+    margin-right: 400px;
+
+}
+.navbar {
+    display: flex;
+    align-items: center;
+}
+.nav-menu {
+    display: flex;
+    align-items: flex-start;
     horiz-align: center;
+    margin-top: 90px;
+    margin-right: 100px;
+    width: 1000px;
+}
+.nav-menu > * {
+    flex-grow: 2;
+}
+.search-bar {
+    width: 400px;
+    border-radius: 6px!important;
+    border-color: white;
 }
