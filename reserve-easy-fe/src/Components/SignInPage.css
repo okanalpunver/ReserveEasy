@@ -11,6 +11,7 @@
 }
 .logo {
     margin-top: 5vh ;
+    margin-right: 3vw;
     width: 17vw;
     height: 28vh;
 }
@@ -47,9 +48,11 @@
 }
 .text-input {
     width: 12.5vw;
-    height: 2vh;
+    height: 2.5vh;
     border-radius: 4px;
     border-color: #fff;
+    border-width: 0px;
+    box-shadow: 2px 2px 8px 0px rgba(0,0,0,0.5)
 
 
 
@@ -60,7 +63,9 @@
     border-color: #597C84;
     margin: 5vh;
     width: 12.5vw;
-    height: 2.8vh;
+    height: 3vh;
+    border-width: 0px;
+    box-shadow: 2px 2px 8px 0px rgba(0,0,0,0.5)
 
 }
 .user-information {
