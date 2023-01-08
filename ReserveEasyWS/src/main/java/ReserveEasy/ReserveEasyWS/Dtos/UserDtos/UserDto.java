@@ -1,6 +1,6 @@
 package ReserveEasy.ReserveEasyWS.Dtos.UserDtos;
 
-import ReserveEasy.ReserveEasyWS.Constants.UserType;
+import ReserveEasy.ReserveEasyWS.Configurations.UserRoleEnum;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
@@ -17,6 +17,6 @@ public class UserDto implements Serializable {
     public String password;
     public String email;
 
-    public UserType userType;
+    public UserRoleEnum ROLE;
 
 }

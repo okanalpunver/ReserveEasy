@@ -1,7 +1,10 @@
 package ReserveEasy.ReserveEasyWS.Repositories.UserRepositories;
 
-import ReserveEasy.ReserveEasyWS.Entities.Users.User;
+import ReserveEasy.ReserveEasyWS.Entities.User.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
+import java.util.Optional;
+
 public interface UserRepository extends JpaRepository<User, Long> {
+    Optional<User> findByUsername(String username);
 }

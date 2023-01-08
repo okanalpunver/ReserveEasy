@@ -2,7 +2,7 @@ package ReserveEasy.ReserveEasyWS.Controllers;
 
 import ReserveEasy.ReserveEasyWS.Dtos.ResponseDtos.UserResponseDto;
 import ReserveEasy.ReserveEasyWS.Dtos.UserDtos.UserDto;
-import ReserveEasy.ReserveEasyWS.Entities.Users.User;
+import ReserveEasy.ReserveEasyWS.Entities.User.User;
 import ReserveEasy.ReserveEasyWS.Services.SignUpService;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.PostMapping;

@@ -1,5 +1,6 @@
-package ReserveEasy.ReserveEasyWS.Entities.Users;
+package ReserveEasy.ReserveEasyWS.Entities.User;
 
+import ReserveEasy.ReserveEasyWS.Configurations.UserRole;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
@@ -12,6 +13,7 @@ import javax.persistence.*;
 @AllArgsConstructor
 @NoArgsConstructor
 @Data
+@Table(name = "Users")
 public class User {
 
     @Id
@@ -24,9 +26,10 @@ public class User {
     @Column(nullable = false)
     private String password;
 
-    @Column(nullable = false)
+    @Column(nullable = false, unique = true)
     private String email;
 
-
-
+    @JoinColumn
+    @ManyToOne
+    private UserRole role;
 }

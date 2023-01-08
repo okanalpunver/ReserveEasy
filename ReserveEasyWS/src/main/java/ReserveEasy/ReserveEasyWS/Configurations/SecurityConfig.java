@@ -16,7 +16,7 @@ public class SecurityConfig {
     BCryptPasswordEncoder bCryptPasswordEncoder(){
         return new BCryptPasswordEncoder();
     }
-    @Bean
+    /*@Bean
     UserDetailsService userDetailsService(BCryptPasswordEncoder bCryptPasswordEncoder){
 
     }
@@ -27,7 +27,7 @@ public class SecurityConfig {
     @Bean
     SecurityFilterChain securityFilterChain(HttpSecurity httpSecurity){
         httpSecurity.csrf()
-    }
+    }*/
 
 
 }
