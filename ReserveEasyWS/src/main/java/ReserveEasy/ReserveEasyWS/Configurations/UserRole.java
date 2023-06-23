@@ -1,6 +1,5 @@
 package ReserveEasy.ReserveEasyWS.Configurations;
 
-import ReserveEasy.ReserveEasyWS.Configurations.UserRoleEnum;
 import lombok.Data;
 
 import javax.persistence.*;
